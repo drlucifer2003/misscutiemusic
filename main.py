@@ -14,6 +14,17 @@ bot = Bot(
     plugins=dict(root="handlers")
 )
 
+async def main():
+    async with bot:
+        try:
+            await USER.join_chat(misscuitesupport)
+            await USER.join_chat(misscuiteupdate)
+        except UserAlreadyParticipant:
+            pass
+        except Exception as e:
+            print(e)
+            pass
+
 bot.start()
 run()
 idle()
