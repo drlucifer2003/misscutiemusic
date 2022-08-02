@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/0da69e7dc8cfaf10c0baf.jpg",
   "description": "ɪ ᴀᴍ ᴀ ᴍᴜsɪᴄ ʙᴏᴛ, ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ ʏᴏᴜʀ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.",
   "keywords": ["music", "voicechat", "telegram", "misscutie"],
-  "repository": "https://github.com/Team-techno/misscutiemusic",
+  "repository": "https://github.com/drlucifer2003/misscutiemusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
