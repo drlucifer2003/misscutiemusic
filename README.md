@@ -5,7 +5,7 @@
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Team-techno&repo=misscutiemusic&theme=dark)
 
-img src="https://telegra.ph/file/f2e4c2c3d7043cc8ff009.jpg" align="right" width="350" height="700"/>
+  <img src="https://telegra.ph/file/f2e4c2c3d7043cc8ff009.jpg">
 
 ## heroku deployment
 
